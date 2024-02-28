@@ -9,7 +9,7 @@ This repository mainly includes 2 datasets. If you have any questions, please do
 - **2024.02.29**: We release Steelcrack dataset!
 
 ## 🌟 Steelcrack
-**Download address**: [Google Drive](https://www.google.com/) or [OneDrive](https://www.google.com/)
+**Download address**: [Google Drive](https://www.google.com/) or [OneDrive](https://www.google.com/).
 
 ## 💞: Cite Civil-dataset
 You are very welcome to use and cite our datasets!  
