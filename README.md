@@ -26,6 +26,17 @@ Some of the images are from the 1st International Project Competition for SHM, w
   <img src="./figures/Steelcrack.png">
 </div>
 
+### 🎖️ Experimental results on Steelcrack
+| **Method**                 | **mi IoU (%)** | **mi Dice (%)** | **#Param. (M)** |**MACs (G)** |
+|:---------------------------|:--------------:|:---------------:|:---------------:|:-----------:|
+| **U-Net**                  | 68.49          | 75.13           | 7.77            | 55.01       |
+| **U-Net++**                | 72.23          | 78.37           | 9.16            | 138.63      |
+| **Attention U-Net**        | 71.25          | 77.54           | 34.88           | 266.54      |
+| **CE-Net**                 | 76.00          | 81.54           | 29.00           | 35.60       |
+| **SCRN**                   | 73.23          | 78.91           | 25.23           | 31.92       |
+| **TransUNet**              | 64.34          | 72.55           | 67.87           | 129.96      |
+
+## ✨ Other dataset
 ## 💞: Cite Civil-dataset
 You are very welcome to use and cite our datasets!  
 ### Steelcrack Dataset
