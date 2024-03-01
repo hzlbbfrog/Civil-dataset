@@ -22,7 +22,9 @@ Some of the images are from the 1st International Project Competition for SHM, w
 **We re-label all the images**.
 
 ### Representative image samples
-
+<div align="center">
+  <img src="./figures/Steelcrack.png">
+</div>
 
 ## 💞: Cite Civil-dataset
 You are very welcome to use and cite our datasets!  
