@@ -33,8 +33,15 @@ Some of the images are from the 1st International Project Competition for SHM, w
 | **U-Net++**                | 72.23          | 78.37           | 9.16            | 138.63      |
 | **Attention U-Net**        | 71.25          | 77.54           | 34.88           | 266.54      |
 | **CE-Net**                 | 76.00          | 81.54           | 29.00           | 35.60       |
+| **DeepLabv3+ (MobileNetv2)** | 68.22        | 71.07           | 5.81            | 29.13       |
+| **DeepLabv3+ (Xception)**    | 67.40        | 71.48           | 54.70           | 83.14       |
+| **DeepLabv3+ (ResNet-101)**  | 69.04        | 69.45           | 59.34           | 88.84       |
 | **SCRN**                   | 73.23          | 78.91           | 25.23           | 31.92       |
 | **TransUNet**              | 64.34          | 72.55           | 67.87           | 129.96      |
+| **CrackSeU-B**             | 70.42          | 80.50           | 3.19            | 11.22       |
+| **CrackSeU-L**             | 71.66          | 81.24           | 4.62            | 28.22       |
+| **DconnNet**               | 74.73          | 83.40           | 28.38           | 24.79       |
+| **BGCrack V1**             | 77.16          | 85.33           | 2.32            | 15.76       |
 
 ## ✨ Other dataset
 ## 💞: Cite Civil-dataset
