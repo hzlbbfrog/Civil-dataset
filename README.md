@@ -45,15 +45,18 @@ Some of the images are from the 1st International Project Competition for SHM, w
 
 ## ✨ Other dataset
 ## 💞: Cite Civil-dataset
-You are very welcome to use and cite our datasets!  
+You are very welcome to use and cite our datasets! The BibTeX entry is as follows:
 ### Steelcrack Dataset
 ```
-@article{he2023infrastructure,
-      title={Infrastructure Crack Segmentation: Boundary Guidance Method and Benchmark Dataset}, 
-      author={Zhili He and Wang Chen and Jian Zhang and Yu-Hsing Wang},
-      year={2023},
-      eprint={2306.09196},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
-}
+@article{HE2024BGCrack,
+title = {Crack segmentation on steel structures using boundary guidance model},
+journal = {Automation in Construction},
+volume = {162},
+pages = {105354},
+year = {2024},
+issn = {0926-5805},
+doi = {https://doi.org/10.1016/j.autcon.2024.105354},
+url = {https://www.sciencedirect.com/science/article/pii/S0926580524000906},
+author = {Zhili He and Wang Chen and Jian Zhang and Yu-Hsing Wang},
+keywords = {Crack inspection, Deep learning, Boundary guidance method, Benchmark dataset}
 ```
