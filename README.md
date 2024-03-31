@@ -59,4 +59,5 @@ doi = {https://doi.org/10.1016/j.autcon.2024.105354},
 url = {https://www.sciencedirect.com/science/article/pii/S0926580524000906},
 author = {Zhili He and Wang Chen and Jian Zhang and Yu-Hsing Wang},
 keywords = {Crack inspection, Deep learning, Boundary guidance method, Benchmark dataset}
+}
 ```
