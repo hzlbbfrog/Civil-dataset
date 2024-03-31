@@ -19,7 +19,7 @@ All the images in the Steelcrack are directly captured from **different projects
 
 ### Data source
 Some of the images are from the 1st International Project Competition for SHM, while others are provided by us.  
-**We re-label all the images**.
+**We re-label all the images to get more refined annotations**.
 
 ### Representative image samples
 <div align="center">
