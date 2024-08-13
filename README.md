@@ -26,7 +26,8 @@ Some of the images are from the 1st International Project Competition for SHM, w
   <img src="./figures/Steelcrack.png">
 </div>
 
-### 🎖️ Experimental results on Steelcrack
+### 🎖️ Benchmark: Experimental results on Steelcrack
+To ensure comparability and reproducibility, all the models are trained from scratch using the same training policy.
 | **Method**                 | **mi IoU (%)** | **mi Dice (%)** | **#Param. (M)** |**MACs (G)** |
 |:---------------------------|:--------------:|:---------------:|:---------------:|:-----------:|
 | **U-Net**                  | 68.49          | 75.13           | 7.77            | 55.01       |
